@@ -5,9 +5,9 @@ Repository: MDC Brasil (https://github.com/mdcbrasil/mysql)
   
 Environment:
 ===========
-Engine  : MySQL 5.7
-Hosting : Google Cloud Platform
-Service : Cloud SQL MySql
+Engine  : MySQL 5.7  
+Hosting : Google Cloud Platform  
+Service : Cloud SQL MySql  
    
 Excerpt:
 =======
