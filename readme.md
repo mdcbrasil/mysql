@@ -11,7 +11,7 @@ Service : Cloud SQL MySql
    
 Excerpt:
 =======
-Using WHERE IN with a temporary table feed as a parameter, MySql query engine returns an completely unexpected result.
+Using WHERE IN with a temporary table feed as a parameter, MySql query engine returns a completely unexpected result.
   
 Steps to reproduce:
 ==================
